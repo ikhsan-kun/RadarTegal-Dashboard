@@ -1,5 +1,5 @@
 import React from 'react';
-import { Newspaper } from 'lucide-react';
+import { Newspaper, Mail } from 'lucide-react';
 
 const Footer = () => (
   <footer className="bg-gradient-to-r from-slate-900 via-blue-900 to-slate-900 text-white mt-16">
@@ -13,6 +13,12 @@ const Footer = () => (
             <p className="font-bold text-lg">Radar Tegal</p>
             <p className="text-sm text-blue-200">Digital News Platform</p>
           </div>
+        </div>
+        <div>
+          <p className="flex items-center space-x-2">
+            <Mail className="h-4 w-4" />
+            <span>contact@korandigitlaradartegal.id</span>
+          </p>
         </div>
         <p className="text-blue-200 text-sm">
           &copy; 2025 Koran Digital Radar Tegal. All rights reserved.
