@@ -54,7 +54,7 @@ const Navigation = () => {
                   : "hover:bg-white/10 hover:scale-105"
               }`}
             >
-              <Newspaper className="h-4 w-4" />
+
               Langganan
             </Link>
           </div>
@@ -106,7 +106,6 @@ const Navigation = () => {
                   : "hover:bg-white/10"
               }`}
             >
-              <Newspaper className="h-4 w-4" />
               Langganan
             </Link>
           </div>

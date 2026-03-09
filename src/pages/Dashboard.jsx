@@ -189,14 +189,14 @@ const Dashboard = () => (
               <Phone className="h-6 w-6 text-white" />
             </div>
             <p className="font-semibold mb-2 text-blue-200">Telepon</p>
-            <p className="text-white">(0283) 340900 </p>
+            <p className="text-white">(0283) 340900</p>
           </div>
           <div className="bg-white/10 backdrop-blur-lg rounded-2xl p-6 hover:bg-white/20 transition-all duration-300">
             <div className="bg-gradient-to-br from-orange-500 to-red-500 w-12 h-12 rounded-xl flex items-center justify-center mb-4">
               <MapPin className="h-6 w-6 text-white" />
             </div>
             <p className="font-semibold mb-2 text-blue-200">Alamat</p>
-            <p className="text-white">Gedung graha Pena Radar TEgal, Jalan Perinits Kemerdekaan No. 32, Tegal, Jawa Tengah</p>
+            <p className="text-white">Gedung graha Pena Radar Tegal, Jalan Perintis Kemerdekaan No. 32, Tegal, Jawa Tengah, Indonesia</p>
           </div>
         </div>
       </div>
